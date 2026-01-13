@@ -6,11 +6,11 @@ export default function Hero() {
     <section className="relative w-screen h-screen bg-[#2f2f2f] text-white overflow-hidden">
       <Navbar />
       <div className="relative h-full flex items-center">
-        <div className="max-w-xl pl-[20px] -mt-[40px] z-10">
+        <div className="max-w-xl pl-5 -mt-10 z-10">
           <h1 className="text-5xl font-bold mb-6">Sri Akash</h1>
 
           <p className="text-gray-300 leading-relaxed">
-            Hello there! I'm Akash, a passionate <br />
+            Hello there! I&apos;m Akash, a passionate <br />
             <span className="text-white font-medium">
               Graphic Designer / Web Developer / UI-UX Enthusiast
             </span>
